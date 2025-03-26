@@ -1,4 +1,4 @@
-# Student-Grade-Calculator -CodingSamurai-Task_3
+# Student-Grade-Calculator 
 
 Task-3: Student-Grade-Calculator 
 Language: Core Java
